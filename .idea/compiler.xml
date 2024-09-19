@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="employee-rostering" target="22" />
+      <module name="employee-rostering.main" target="22" />
+      <module name="employee-rostering.test" target="22" />
+      <module name="shift-rostering" target="1.8" />
+      <module name="shift-rostering.main" target="1.8" />
+      <module name="shift-rostering.test" target="1.8" />
+      <module name="untitled.main" target="1.8" />
+      <module name="untitled.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

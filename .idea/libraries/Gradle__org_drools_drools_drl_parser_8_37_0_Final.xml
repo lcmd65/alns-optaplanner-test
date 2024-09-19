@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.drools:drools-drl-parser:8.37.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.drools" artifactId="drools-drl-parser" version="8.37.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.drools/drools-drl-parser/8.37.0.Final/3f18eb474f4f466bc5167c848ee6ce1d85bb7737/drools-drl-parser-8.37.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

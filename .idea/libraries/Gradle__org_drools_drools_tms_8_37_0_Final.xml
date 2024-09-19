@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.drools:drools-tms:8.37.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.drools" artifactId="drools-tms" version="8.37.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.drools/drools-tms/8.37.0.Final/a4a7681a62746a3e59253c6d4896a5013e1660cb/drools-tms-8.37.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

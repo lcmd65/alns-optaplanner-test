@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.drools:drools-core:8.37.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.drools" artifactId="drools-core" version="8.37.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.drools/drools-core/8.37.0.Final/b62202b87c2330f3ece04e0015f220fe82a99001/drools-core-8.37.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

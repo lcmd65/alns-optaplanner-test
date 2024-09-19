@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.drools:drools-wiring-dynamic:8.37.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.drools" artifactId="drools-wiring-dynamic" version="8.37.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.drools/drools-wiring-dynamic/8.37.0.Final/3423298d9c429d9cba8c4bc13f40afa9f4d4784e/drools-wiring-dynamic-8.37.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

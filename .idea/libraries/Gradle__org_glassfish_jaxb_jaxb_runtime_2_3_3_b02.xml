@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.jaxb:jaxb-runtime:2.3.3-b02" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.glassfish.jaxb" artifactId="jaxb-runtime" version="2.3.3-b02" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.3-b02/45d805cdfa1cff8c8ff707f855434a330b1bbf9d/jaxb-runtime-2.3.3-b02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1429e947-3053-4cd0-8589-68bb58a20392" name="Changes" comment="[ADR-2652]">
+      <change beforePath="$PROJECT_DIR$/shift-rostering/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shift-rostering/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shift-rostering/gradlew.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/employee-rostering">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/shift-rostering">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/untitled">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lcmd65"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lcmd65/alns-optaplanner-test",
+    "accountId": "f2293a00-ba35-4d2e-bd3d-dd3840ceceb7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mGvFap7t9bCVAvzB5tmdjxWWTm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build untitled.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/lechonminhdat/Documents/alns-optaplanner-test/shift-rostering/src/main/kotlin/Main.kt",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ft.aio.template.adapter.output.web.scrippt.MainKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1429e947-3053-4cd0-8589-68bb58a20392" name="Changes" comment="" />
+      <created>1726715625287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726715625287</updated>
+      <workItem from="1726715626704" duration="2453000" />
+    </task>
+    <task id="LOCAL-00001" summary="[ADR-2652]">
+      <option name="closed" value="true" />
+      <created>1726715935644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726715935644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[ADR-2652]">
+      <option name="closed" value="true" />
+      <created>1726716218003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726716218003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[ADR-2652]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADR-2652]" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/employee-rostering/src/main/java/com/ft/aio/template/adapter/output/web/scrippt/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/shift-rostering/src/main/kotlin/Main.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

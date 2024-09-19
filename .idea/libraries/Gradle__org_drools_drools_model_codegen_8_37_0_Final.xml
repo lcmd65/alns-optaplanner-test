@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.drools:drools-model-codegen:8.37.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.drools" artifactId="drools-model-codegen" version="8.37.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.drools/drools-model-codegen/8.37.0.Final/f7cfecc38fba50e889225cf16ef8779644d7efe6/drools-model-codegen-8.37.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
