@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.path="$MODULE_DIR$/shift-rostering" external.root.project.path="$MODULE_DIR$/shift-rostering" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+<module external.linked.project.id="shift-rostering" external.linked.project.path="$MODULE_DIR$/shift-rostering" external.root.project.path="$MODULE_DIR$/shift-rostering" external.system.id="GRADLE" external.system.module.group="com.ft.aio.template.adapter.output.web.scrippt" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/shift-rostering" />
+    <content url="file://$MODULE_DIR$/shift-rostering">
+      <excludeFolder url="file://$MODULE_DIR$/shift-rostering/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/shift-rostering/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

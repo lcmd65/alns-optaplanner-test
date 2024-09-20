@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.optaplanner:optaplanner-core:9.44.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.optaplanner" artifactId="optaplanner-core" version="9.44.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.optaplanner/optaplanner-core/9.44.0.Final/1ae38882719e74f33cf9f8ab68dfeb0cb737823e/optaplanner-core-9.44.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

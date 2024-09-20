@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="shift-rostering:main" external.linked.project.path="$MODULE_DIR$/../../shift-rostering" external.root.project.path="$MODULE_DIR$/../../shift-rostering" external.system.id="GRADLE" external.system.module.group="com.ft.aio.template.adapter.output.web.scrippt" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/../../shift-rostering/src/main/kotlin;/Users/lechonminhdat/Documents/alns-optaplanner-test/shift-rostering/src/test/kotlin">
+        <compilerSettings>
+          <option name="additionalArguments" value="-java-parameters" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../shift-rostering/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="shift-rostering" />
+            <stringArg name="apiVersion" arg="1.9" />
+            <stringArg name="languageVersion" arg="1.9" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.9.0/e2e6a0bd37a72cded2fec7882199e1bdc4e8bcb4/kotlin-scripting-jvm-1.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.9.0/ea019fa9e3885795a81df270775e5609f7115307/kotlin-scripting-common-1.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.0/8ee15ef0c67dc83d874f412d84378d7f0eb50b63/kotlin-stdlib-1.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.0/cd65c21cfd1eec4d44ef09f9f52b6d9f8a720636/kotlin-stdlib-common-1.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.9.0/4b3102cbbb7e1b58d9d1adf89563f00069ffa7d1/kotlin-script-runtime-1.9.0.jar</arg>
+                <arg>$KOTLIN_BUNDLED$/lib/noarg-compiler-plugin.jar</arg>
+                <arg>$KOTLIN_BUNDLED$/lib/allopen-compiler-plugin.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.Entity</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.Embeddable</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.MappedSuperclass</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=jakarta.persistence.Entity</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=jakarta.persistence.Embeddable</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:annotation=jakarta.persistence.MappedSuperclass</arg>
+                <arg>plugin:org.jetbrains.kotlin.noarg:invokeInitializers=false</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.stereotype.Component</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.transaction.annotation.Transactional</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.scheduling.annotation.Async</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.cache.annotation.Cacheable</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.boot.test.context.SpringBootTest</arg>
+                <arg>plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.validation.annotation.Validated</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../shift-rostering/build/classes/kotlin/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../shift-rostering/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../shift-rostering/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../shift-rostering/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.h2database:h2:2.2.224" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:42.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-core:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-constraint-streams-drools:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-constraint-drl:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-constraint-streams-bavet:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-core-impl:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.optaplanner:optaplanner-constraint-streams-common:9.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-alphanetwork-compiler:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-engine:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-math3:3.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-core:1.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-model-codegen:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-compiler:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-core:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.kie:kie-internal:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.kie:kie-api:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-tms:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-model-compiler:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-kiesession:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-commands:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-wiring-dynamic:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-observation:1.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-commons:1.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.activation:jakarta.activation-api:2.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-mvel-compiler:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-codegen-common:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-mvel-parser:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-util:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.javaparser:javaparser-core:3.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-drl-parser:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-drl-extensions:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-base:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-wiring-api:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-drl-ast:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.kie:kie-util-maven-support:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.kie:kie-util-xml:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-ecj:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.kie:kie-memory-compiler:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-wiring-static:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-io:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.16.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.drools:drools-canonical-model:8.44.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jdt:ecj:3.33.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.checkerframework:checker-qual:3.31.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.latencyutils:LatencyUtils:2.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-core:4.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.angus:angus-activation:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:txw2:4.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.istack:istack-commons-runtime:4.1.2" level="project" />
+  </component>
+</module>

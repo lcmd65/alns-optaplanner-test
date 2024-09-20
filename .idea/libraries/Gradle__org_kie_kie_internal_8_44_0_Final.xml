@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kie:kie-internal:8.44.0.Final" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.kie" artifactId="kie-internal" version="8.44.0.Final" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kie/kie-internal/8.44.0.Final/25e41d97a4d437185a0a00c28ae561b20b3a7d4c/kie-internal-8.44.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
