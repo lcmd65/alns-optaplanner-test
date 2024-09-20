@@ -23,7 +23,7 @@ dependencies {
     implementation("org.postgresql:postgresql")
 
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
-    implementation("org.hibernate.orm:hibernate-core:5.6.10.Final")
+    implementation("org.hibernate:hibernate-core:5.6.10.Final")
     implementation("com.h2database:h2")
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1")
