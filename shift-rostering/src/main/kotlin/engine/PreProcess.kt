@@ -4,6 +4,7 @@ import com.ft.aio.template.adapter.output.web.scrippt.input.InputData
 import com.google.gson.Gson;
 
 open class PreProcess {
+
     fun dataPreprocessing(): InputData{
         var jsonString = ReadJson().readJson("shift-rostering/src/main/resources/dump/data_dummy.json")
 

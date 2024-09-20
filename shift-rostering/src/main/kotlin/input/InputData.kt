@@ -7,8 +7,4 @@ data class InputData (
     var shifts: List<Shift>,
     var employees: List<Employee>
 ){
-
-    init{
-
-    }
 }

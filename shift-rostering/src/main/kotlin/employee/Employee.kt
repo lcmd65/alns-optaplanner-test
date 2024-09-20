@@ -3,7 +3,7 @@ import org.optaplanner.core.api.domain.entity.*
 
 @PlanningEntity
 data class Employee(
-    val id: Long,
+    val id: String,
     val name: String,
     val workDays: Double
 )

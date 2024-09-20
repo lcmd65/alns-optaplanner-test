@@ -20,9 +20,9 @@ data class Roster(
     @PlanningScore
     var score: HardSoftScore = HardSoftScore.ZERO
 ){
-    var inputData: InputData
-
     init{
+        
+        var inputData = PreProcess().dataPreprocessing()
         shiftList = inputData.shifts
         employeeList = inputData.employees
     }
