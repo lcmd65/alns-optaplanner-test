@@ -4,7 +4,10 @@ import org.optaplanner.core.api.domain.solution.PlanningEntityCollectionProperty
 import org.optaplanner.core.api.domain.solution.PlanningSolution
 import org.optaplanner.core.api.domain.valuerange.ValueRangeProvider
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore
-import org.optaplanner.core.api.score.Score
+//import org.optaplanner.core.api.score.Score
+import com.ft.aio.template.adapter.output.web.scrippt.employee.Employee
+import com.ft.aio.template.adapter.output.web.scrippt.shift.Shift
+import com.ft.aio.template.adapter.output.web.scrippt.input.InputData
 
 @PlanningSolution
 data class Roster(
@@ -16,4 +19,11 @@ data class Roster(
 
     @PlanningScore
     var score: HardSoftScore = HardSoftScore.ZERO
-)
+){
+    var inputData: InputData
+
+    init{
+        shiftList = inputData.shifts
+        employeeList = inputData.employees
+    }
+}

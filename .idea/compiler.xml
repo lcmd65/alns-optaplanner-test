@@ -5,9 +5,6 @@
       <module name="employee-rostering" target="22" />
       <module name="employee-rostering.main" target="22" />
       <module name="employee-rostering.test" target="22" />
-      <module name="shift-rostering" target="1.8" />
-      <module name="shift-rostering.main" target="1.8" />
-      <module name="shift-rostering.test" target="1.8" />
       <module name="untitled.main" target="1.8" />
       <module name="untitled.test" target="1.8" />
     </bytecodeTargetLevel>

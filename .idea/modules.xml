@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alns-optaplanner-test.iml" filepath="$PROJECT_DIR$/.idea/alns-optaplanner-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/api-shift-rostering/api-shift-rostering.iml" filepath="$PROJECT_DIR$/api-shift-rostering/api-shift-rostering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shift-rostering.iml" filepath="$PROJECT_DIR$/shift-rostering.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shift-rostering.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shift-rostering.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shift-rostering.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shift-rostering.test.iml" />
     </modules>
   </component>
 </project>
