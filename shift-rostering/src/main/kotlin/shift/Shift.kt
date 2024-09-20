@@ -5,8 +5,6 @@ import org.optaplanner.core.api.domain.variable.PlanningVariable
 import com.ft.aio.template.adapter.output.web.scrippt.employee.Employee
 
 
-
-
 @PlanningEntity
 data class Shift(
     @PlanningId
